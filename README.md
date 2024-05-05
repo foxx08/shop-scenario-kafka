@@ -1,5 +1,7 @@
 # Shop Example
 
+**source: github.com/Marloto/edi-ss2024/tree/main**
+
 Shop setup with shopping service, checkout service, payment service and warehouse service. The shop can be used to browse available products and place articles on a shopping cart, the checkout service can be used to order the created cart and the payment service can be used to pay this order. The warehouse service finally allows to ship items. By default, all services are not fully implemented. The communication between each service is not realized and has to be added.
 
 ## Prepare
